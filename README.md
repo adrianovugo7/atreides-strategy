@@ -1,5 +1,3 @@
-# atreides-strategy
-Painel de investimentos AtreidesStrategy
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
